@@ -7,8 +7,10 @@
     "express": "^4.11.2"
   },
   "devDependencies": {
-    "aglio": "^1.17.1",
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "gulp-aglio": "0.0.6",
+    "gulp-util": "^3.0.3",
+    "gulp-watch": "^4.1.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
